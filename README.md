@@ -1,2 +1,2 @@
-# Bahasa-C-
+# Bahasa-C++
 Terserah kalian dah
